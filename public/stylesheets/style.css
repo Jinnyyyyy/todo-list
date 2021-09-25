@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.todo {
+  border: 0.5px solid #CCC;
+}
+
+#todobtn{
+  background-color: white;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+}
+
+form {
+  display: inline;
+}
+
+#deletebtn {
+  background-color: white;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+}
